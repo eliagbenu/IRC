@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IRC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="activity_1">Hi !</string>
+    <string name="activity_2">Missed you</string>
+    <string name="activity_3">Play</string>
+    <string name="dedication">IRC</string>
+    <string name="copyright">(c) 2014 eliagbenu.com</string>   
+    <string name="next">Click Image to Proceed</string>                
+    <string name="restart">Restart</string>                    
+    <string name="activity_1_msg">Hi, I did this very simple app for one reason</string>      
+    <string name="activity_2_msg">I just wanted to tell you I missed you</string>           
+    <string name="activity_3_msg">Until the next time we meet, keep playing the song</string>                                   
+</resources>
