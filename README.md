@@ -8,7 +8,7 @@ It brings up 2 activities followed by a song
 
 Known Issues
 -------------------------------
-As as now the audio can play simultaneously. I don't also give the option to push the audio
+As as now the audio can play simultaneously. I don't also give the option to pause the song
 
 Eli can be reached at 
 Voice: +233-241407600
